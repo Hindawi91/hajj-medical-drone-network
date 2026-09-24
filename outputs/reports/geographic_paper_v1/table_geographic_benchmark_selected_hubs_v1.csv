@@ -1,4 +1,0 @@
-﻿model,service_range_km,hub_id,facility_label,label_source,name,name_en,category,hajj_zone,latitude,longitude,demand_cells_within_5km,proxy_coverage_share_5km
-LSCP,5.0,HUB_006,Armed Forces Hospital,osm_name_en,Armed Forces Hospital,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415,202,0.4018613867388035
-LSCP,5.0,HUB_007,Namirah Hospital,author_override,مستشفى نمرة,,hospital,Arafat,21.3527385,39.9732195,159,0.2388593370538336
-LSCP,5.0,HUB_016,Ajyad Emergency Hospital,osm_name_en,مستشفى أجياد للطوارئ,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838,219,0.4048876083093695

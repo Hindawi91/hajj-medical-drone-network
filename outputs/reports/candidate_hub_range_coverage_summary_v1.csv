@@ -1,5 +1,0 @@
-﻿range_km,demand_points_covered,total_demand_points,geographic_coverage_pct,proxy_weighted_coverage_pct,mean_candidate_hubs_per_demand_point,min_candidate_hubs_per_demand_point,max_candidate_hubs_per_demand_point
-2.5,509,556,91.54676258992805,93.1006884062089,5.16546762589928,0,20
-5.0,556,556,100.0,100.0,15.640287769784173,5,30
-7.5,556,556,100.0,100.0,24.996402877697843,9,42
-10.0,556,556,100.0,100.0,33.48021582733813,10,45
