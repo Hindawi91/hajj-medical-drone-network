@@ -1,8 +1,8 @@
 <div align="center">
 
-# From Geographic Coverage to Operational Resilience
+# Medical-Drone Hub Planning for Hajj
 
-### Data-Driven Medical-Drone Hub Planning for Hajj
+### Geographic Coverage, Fleet Capacity, and Backup Accessibility
 
 Official implementation
 
@@ -41,9 +41,9 @@ is combined with analytical Hajj zones, multi-resolution demand grids, an
 activity-based demand proxy, candidate hubs drawn from existing medical facilities, and
 a demand-to-hub air-distance matrix.
 
-The same network is then analysed at three progressively stricter planning layers. Four
+The same network is then analysed under three planning scenarios. Four
 classical facility-location models establish a geographic benchmark. A mixed-integer
-linear program then adds the operational requirements a real deployment faces: finite
+linear program then adds operational planning requirements: finite
 drone fleets, return-to-origin missions, endurance, a response-time target, and
 turnaround between flights. A final layer requires backup accessibility for
 high-priority areas.
@@ -54,21 +54,24 @@ high-priority areas.
 |---|---|:---:|
 | **Geographic** | Complete coverage within 5 km | **3 hubs** |
 | **Operational** | Fleet capacity, endurance, 5-min response, 30-min turnaround | **7 hubs, 19 drones** |
-| **Resilient** | Two independently feasible hubs for high-priority cells | **10 hubs, 21 drones** |
+| **Backup coverage** | Two feasible active hubs for high-priority cells | **10 hubs, 21 drones** |
 
 Three findings follow:
 
-- **Geographic coverage understates the hub requirement by more than threefold.** Three
-  hubs can host at most nine drones, which supplies well under half the drone-minutes
-  the workload needs, so the coverage-optimal network fails on throughput regardless of
-  where those hubs are placed.
-- **Ground time governs the design, not flight performance.** Turnaround accounts for
-  most of the mission-cycle burden and is the widest-ranging sensitivity driver, while
-  battery endurance is non-binding: varying the safe round trip from 10 to 20 km changes
-  nothing, because the response-time target already imposes a tighter service radius.
-- **Resilience is bought as spatial presence, not capacity.** Requiring backup coverage
-  raises hubs by 42.9% but the fleet by only 10.5%, and two of the ten resilient hubs
-  serve no packages at all.
+- **Fleet capacity rules out the three-hub network under the operational assumptions.**
+  Nine drones provide 540 drone-minutes per hour: 60% of the turnaround-only
+  requirement and 57.3% of the lower bound including flight. The 3 / 7 / 10
+  comparison uses different coverage scopes and is a progressive scenario comparison.
+- **Turnaround drives fleet requirements over the tested ranges.** Halving turnaround
+  reduces the backup-coverage fleet from 21 to 12 drones. Increasing turnaround to
+  45 minutes also increases mean delivery distance and modeled delivery time.
+- **Backup accessibility adds geographic preparedness.** The nonredundant case imposes
+  no critical-area coverage requirement. Introducing two-hub accessibility for all
+  112 critical cells raises the network from seven hubs and 19 drones to ten hubs
+  and 21 drones. This includes first coverage for five previously uncovered cells.
+
+Delivery times assume an available drone and exclude queueing. Backup accessibility
+counts reachable active hubs; post-failure capacity and reassignment are not modeled.
 
 ---
 
@@ -128,8 +131,7 @@ If you use this code, please cite our paper:
 
 ```bibtex
 @article{alhindawi2026hajj,
-  title={From Geographic Coverage to Operational Resilience: Data-Driven
-         Medical-Drone Hub Planning for Hajj},
+  title={Medical-Drone Hub Planning for Hajj: Integrating Geographic Coverage, Fleet Capacity, and Backup Accessibility},
   author={Al-Hindawi, Firas and Alhomaidhi, Esam},
   note={Manuscript in preparation},
   year={2026}

@@ -2,10 +2,10 @@ cff-version: 1.2.0
 message: >-
   If you use this software or data, please cite it as below. The associated paper is
   in preparation; this file will be updated with the article reference once published.
-title: "From Geographic Coverage to Operational Resilience: official implementation"
+title: "Medical-Drone Hub Planning for Hajj: Integrating Geographic Coverage, Fleet Capacity, and Backup Accessibility - implementation"
 abstract: >-
-  Official implementation of a data-driven framework for medical-drone hub planning
-  during Hajj, comparing geographic coverage benchmarks against an operational-resilient
+  Official implementation of an open-data framework for medical-drone hub planning
+  during Hajj, comparing geographic coverage benchmarks against an operational hub-and-fleet
   mixed-integer linear program with fleet capacity, endurance, response-time and backup
   accessibility requirements.
 type: software
@@ -32,8 +32,7 @@ keywords:
 # preferred-citation:
 #   type: article
 #   title: >-
-#     From Geographic Coverage to Operational Resilience: Data-Driven Medical-Drone Hub
-#     Planning for Hajj
+#     Medical-Drone Hub Planning for Hajj: Integrating Geographic Coverage, Fleet Capacity, and Backup Accessibility
 #   authors:
 #     - family-names: Al-Hindawi
 #       given-names: Firas
