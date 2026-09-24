@@ -1,0 +1,92 @@
+﻿scenario_id,hub_id,hub_name,category,hajj_zone,latitude,longitude,drones
+S01,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741,2
+S01,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661,1
+S01,HUB_036,MarkazSihhiMawsimiRaqm'Asharah,seasonal_health_center,Arafat,21.34453,39.969909,1
+S01,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361,3
+S01,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091,3
+S01,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844,1
+S01,HUB_046,Eastern Arafat Hospital,hospital,Arafat,21.33468009963513,39.987464969428345,1
+S01,HUB_049,SHIFA AL BARAKA MEDICAL CENTER,hospital,Haram_Makkah,21.437866521919123,39.8049459086818,1
+S02,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415,3
+S02,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741,2
+S02,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661,3
+S02,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065,1
+S02,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361,3
+S02,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864,3
+S02,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091,3
+S02,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844,1
+S02,HUB_046,Eastern Arafat Hospital,hospital,Arafat,21.33468009963513,39.987464969428345,1
+S02,HUB_049,SHIFA AL BARAKA MEDICAL CENTER,hospital,Haram_Makkah,21.437866521919123,39.8049459086818,1
+S03,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415,3
+S03,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741,3
+S03,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661,3
+S03,HUB_031,MarkazSihhiMawsimiRaqmThamaniyat'Ashar,seasonal_health_center,Arafat,21.3482939,39.9762993,1
+S03,HUB_036,MarkazSihhiMawsimiRaqm'Asharah,seasonal_health_center,Arafat,21.34453,39.969909,1
+S03,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361,3
+S03,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864,3
+S03,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091,3
+S03,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844,3
+S03,HUB_049,SHIFA AL BARAKA MEDICAL CENTER,hospital,Haram_Makkah,21.437866521919123,39.8049459086818,3
+S03,HUB_058,National Guard Hospital,hospital,Mina,21.405893675544224,39.89207000859229,3
+S04,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415,3
+S04,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741,2
+S04,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661,3
+S04,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065,1
+S04,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361,3
+S04,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864,3
+S04,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091,3
+S04,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844,1
+S04,HUB_046,Eastern Arafat Hospital,hospital,Arafat,21.33468009963513,39.987464969428345,1
+S04,HUB_049,SHIFA AL BARAKA MEDICAL CENTER,hospital,Haram_Makkah,21.437866521919123,39.8049459086818,1
+S05,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415,3
+S05,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741,2
+S05,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661,3
+S05,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065,1
+S05,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361,3
+S05,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864,3
+S05,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091,3
+S05,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844,1
+S05,HUB_046,Eastern Arafat Hospital,hospital,Arafat,21.33468009963513,39.987464969428345,1
+S05,HUB_049,SHIFA AL BARAKA MEDICAL CENTER,hospital,Haram_Makkah,21.437866521919123,39.8049459086818,1
+S06,HUB_007,مستشفى نمرة,hospital,Arafat,21.3527385,39.9732195,1
+S06,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838,3
+S06,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361,3
+S06,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864,3
+S06,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091,3
+S06,HUB_047,Medical Center,hospital,Greater_Makkah,21.371282489216437,39.93799241640427,1
+S06,HUB_056,Red Crescent,hospital,Haram_Makkah,21.422420500030203,39.82310754985782,3
+S06,HUB_058,National Guard Hospital,hospital,Mina,21.405893675544224,39.89207000859229,3
+S07,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838,3
+S07,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361,3
+S07,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864,3
+S07,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091,3
+S07,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547,3
+S07,HUB_047,Medical Center,hospital,Greater_Makkah,21.371282489216437,39.93799241640427,1
+S07,HUB_056,Red Crescent,hospital,Haram_Makkah,21.422420500030203,39.82310754985782,3
+S08,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741,1
+S08,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661,1
+S08,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065,1
+S08,HUB_036,MarkazSihhiMawsimiRaqm'Asharah,seasonal_health_center,Arafat,21.34453,39.969909,1
+S08,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361,3
+S08,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091,3
+S08,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844,1
+S08,HUB_049,SHIFA AL BARAKA MEDICAL CENTER,hospital,Haram_Makkah,21.437866521919123,39.8049459086818,1
+S09,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415,3
+S09,HUB_012,Mina Al-Jisr Hospital,hospital,Mina,21.4051802,39.8884633,3
+S09,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741,3
+S09,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661,3
+S09,HUB_036,MarkazSihhiMawsimiRaqm'Asharah,seasonal_health_center,Arafat,21.34453,39.969909,1
+S09,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893,1
+S09,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361,3
+S09,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864,3
+S09,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091,3
+S09,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844,3
+S09,HUB_049,SHIFA AL BARAKA MEDICAL CENTER,hospital,Haram_Makkah,21.437866521919123,39.8049459086818,3
+S09,HUB_058,National Guard Hospital,hospital,Mina,21.405893675544224,39.89207000859229,3
+S10,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415,3
+S10,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741,2
+S10,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838,3
+S10,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361,3
+S10,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864,3
+S10,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091,3
+S10,HUB_056,Red Crescent,hospital,Haram_Makkah,21.422420500030203,39.82310754985782,2

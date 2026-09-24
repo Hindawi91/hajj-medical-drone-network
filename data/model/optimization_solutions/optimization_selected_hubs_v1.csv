@@ -1,0 +1,510 @@
+﻿model,demand_scenario,p,range_km,hub_index,hub_id,hub_name,hub_category,hajj_zone,latitude,longitude
+p-median,uniform,1,,57,HUB_058,National Guard Hospital,hospital,Mina,21.405893675544224,39.89207000859229
+p-median,uniform,2,,6,HUB_007,مستشفى نمرة,hospital,Arafat,21.3527385,39.9732195
+p-median,uniform,2,,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+p-median,uniform,3,,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+p-median,uniform,3,,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+p-median,uniform,3,,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,uniform,3,5.0,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+p-median,uniform,3,5.0,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+p-median,uniform,3,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,uniform,4,,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+p-median,uniform,4,,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,uniform,4,,40,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864
+p-median,uniform,4,,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,uniform,4,5.0,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+p-median,uniform,4,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,uniform,4,5.0,40,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864
+p-median,uniform,4,5.0,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,uniform,5,,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+p-median,uniform,5,,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,uniform,5,,40,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864
+p-median,uniform,5,,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+p-median,uniform,5,,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,uniform,5,5.0,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+p-median,uniform,5,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,uniform,5,5.0,40,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864
+p-median,uniform,5,5.0,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+p-median,uniform,5,5.0,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,uniform,6,,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+p-median,uniform,6,,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+p-median,uniform,6,,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,uniform,6,,41,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091
+p-median,uniform,6,,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+p-median,uniform,6,,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,uniform,6,5.0,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+p-median,uniform,6,5.0,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+p-median,uniform,6,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,uniform,6,5.0,41,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091
+p-median,uniform,6,5.0,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+p-median,uniform,6,5.0,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,uniform,8,,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+p-median,uniform,8,,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+p-median,uniform,8,,35,HUB_036,MarkazSihhiMawsimiRaqm'Asharah,seasonal_health_center,Arafat,21.34453,39.969909
+p-median,uniform,8,,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,uniform,8,,41,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091
+p-median,uniform,8,,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+p-median,uniform,8,,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,uniform,8,,49,HUB_050,Hospital King Abdulaziz,hospital,Haram_Makkah,21.4417766315203,39.80725852806045
+p-median,uniform,8,5.0,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+p-median,uniform,8,5.0,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+p-median,uniform,8,5.0,35,HUB_036,MarkazSihhiMawsimiRaqm'Asharah,seasonal_health_center,Arafat,21.34453,39.969909
+p-median,uniform,8,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,uniform,8,5.0,41,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091
+p-median,uniform,8,5.0,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+p-median,uniform,8,5.0,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,uniform,8,5.0,49,HUB_050,Hospital King Abdulaziz,hospital,Haram_Makkah,21.4417766315203,39.80725852806045
+p-median,uniform,10,,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+p-median,uniform,10,,15,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838
+p-median,uniform,10,,16,HUB_017,Security Forces Health Center,hospital,Muzdalifah,21.3941412,39.8959064
+p-median,uniform,10,,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+p-median,uniform,10,,35,HUB_036,MarkazSihhiMawsimiRaqm'Asharah,seasonal_health_center,Arafat,21.34453,39.969909
+p-median,uniform,10,,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,uniform,10,,41,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091
+p-median,uniform,10,,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+p-median,uniform,10,,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,uniform,10,,49,HUB_050,Hospital King Abdulaziz,hospital,Haram_Makkah,21.4417766315203,39.80725852806045
+p-median,uniform,10,5.0,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+p-median,uniform,10,5.0,15,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838
+p-median,uniform,10,5.0,16,HUB_017,Security Forces Health Center,hospital,Muzdalifah,21.3941412,39.8959064
+p-median,uniform,10,5.0,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+p-median,uniform,10,5.0,35,HUB_036,MarkazSihhiMawsimiRaqm'Asharah,seasonal_health_center,Arafat,21.34453,39.969909
+p-median,uniform,10,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,uniform,10,5.0,41,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091
+p-median,uniform,10,5.0,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+p-median,uniform,10,5.0,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,uniform,10,5.0,49,HUB_050,Hospital King Abdulaziz,hospital,Haram_Makkah,21.4417766315203,39.80725852806045
+p-median,proxy,1,,11,HUB_012,Mina Al-Jisr Hospital,hospital,Mina,21.4051802,39.8884633
+p-median,proxy,2,,6,HUB_007,مستشفى نمرة,hospital,Arafat,21.3527385,39.9732195
+p-median,proxy,2,,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+p-median,proxy,3,,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,proxy,3,,55,HUB_056,Red Crescent,hospital,Haram_Makkah,21.422420500030203,39.82310754985782
+p-median,proxy,3,,57,HUB_058,National Guard Hospital,hospital,Mina,21.405893675544224,39.89207000859229
+p-median,proxy,3,5.0,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+p-median,proxy,3,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,proxy,3,5.0,55,HUB_056,Red Crescent,hospital,Haram_Makkah,21.422420500030203,39.82310754985782
+p-median,proxy,4,,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,proxy,4,,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+p-median,proxy,4,,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,proxy,4,,55,HUB_056,Red Crescent,hospital,Haram_Makkah,21.422420500030203,39.82310754985782
+p-median,proxy,4,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,proxy,4,5.0,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+p-median,proxy,4,5.0,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,proxy,4,5.0,55,HUB_056,Red Crescent,hospital,Haram_Makkah,21.422420500030203,39.82310754985782
+p-median,proxy,5,,15,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838
+p-median,proxy,5,,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,proxy,5,,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+p-median,proxy,5,,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,proxy,5,,49,HUB_050,Hospital King Abdulaziz,hospital,Haram_Makkah,21.4417766315203,39.80725852806045
+p-median,proxy,5,5.0,15,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838
+p-median,proxy,5,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,proxy,5,5.0,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+p-median,proxy,5,5.0,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,proxy,5,5.0,49,HUB_050,Hospital King Abdulaziz,hospital,Haram_Makkah,21.4417766315203,39.80725852806045
+p-median,proxy,6,,15,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838
+p-median,proxy,6,,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,proxy,6,,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+p-median,proxy,6,,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,proxy,6,,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+p-median,proxy,6,,48,HUB_049,SHIFA AL BARAKA MEDICAL CENTER,hospital,Haram_Makkah,21.437866521919123,39.8049459086818
+p-median,proxy,6,5.0,15,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838
+p-median,proxy,6,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,proxy,6,5.0,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+p-median,proxy,6,5.0,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,proxy,6,5.0,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+p-median,proxy,6,5.0,48,HUB_049,SHIFA AL BARAKA MEDICAL CENTER,hospital,Haram_Makkah,21.437866521919123,39.8049459086818
+p-median,proxy,8,,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+p-median,proxy,8,,15,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838
+p-median,proxy,8,,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,proxy,8,,40,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864
+p-median,proxy,8,,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+p-median,proxy,8,,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,proxy,8,,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+p-median,proxy,8,,49,HUB_050,Hospital King Abdulaziz,hospital,Haram_Makkah,21.4417766315203,39.80725852806045
+p-median,proxy,8,5.0,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+p-median,proxy,8,5.0,15,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838
+p-median,proxy,8,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,proxy,8,5.0,40,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864
+p-median,proxy,8,5.0,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+p-median,proxy,8,5.0,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,proxy,8,5.0,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+p-median,proxy,8,5.0,49,HUB_050,Hospital King Abdulaziz,hospital,Haram_Makkah,21.4417766315203,39.80725852806045
+p-median,proxy,10,,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+p-median,proxy,10,,15,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838
+p-median,proxy,10,,16,HUB_017,Security Forces Health Center,hospital,Muzdalifah,21.3941412,39.8959064
+p-median,proxy,10,,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+p-median,proxy,10,,35,HUB_036,MarkazSihhiMawsimiRaqm'Asharah,seasonal_health_center,Arafat,21.34453,39.969909
+p-median,proxy,10,,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,proxy,10,,41,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091
+p-median,proxy,10,,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+p-median,proxy,10,,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,proxy,10,,49,HUB_050,Hospital King Abdulaziz,hospital,Haram_Makkah,21.4417766315203,39.80725852806045
+p-median,proxy,10,5.0,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+p-median,proxy,10,5.0,15,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838
+p-median,proxy,10,5.0,16,HUB_017,Security Forces Health Center,hospital,Muzdalifah,21.3941412,39.8959064
+p-median,proxy,10,5.0,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+p-median,proxy,10,5.0,35,HUB_036,MarkazSihhiMawsimiRaqm'Asharah,seasonal_health_center,Arafat,21.34453,39.969909
+p-median,proxy,10,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-median,proxy,10,5.0,41,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091
+p-median,proxy,10,5.0,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+p-median,proxy,10,5.0,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-median,proxy,10,5.0,49,HUB_050,Hospital King Abdulaziz,hospital,Haram_Makkah,21.4417766315203,39.80725852806045
+p-center,distance_equity,1,,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+p-center,distance_equity,2,,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+p-center,distance_equity,2,,35,HUB_036,MarkazSihhiMawsimiRaqm'Asharah,seasonal_health_center,Arafat,21.34453,39.969909
+p-center,distance_equity,3,,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+p-center,distance_equity,3,,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-center,distance_equity,3,,55,HUB_056,Red Crescent,hospital,Haram_Makkah,21.422420500030203,39.82310754985782
+p-center,distance_equity,4,,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+p-center,distance_equity,4,,37,HUB_038,Arafat General hospital,hospital,Arafat,21.35006841829966,39.9836377010321
+p-center,distance_equity,4,,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-center,distance_equity,4,,53,HUB_054,Mina Emergency Hospital,hospital,Mina,21.413654430364534,39.88011344235567
+p-center,distance_equity,5,,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+p-center,distance_equity,5,,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-center,distance_equity,5,,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-center,distance_equity,5,,55,HUB_056,Red Crescent,hospital,Haram_Makkah,21.422420500030203,39.82310754985782
+p-center,distance_equity,5,,57,HUB_058,National Guard Hospital,hospital,Mina,21.405893675544224,39.89207000859229
+p-center,distance_equity,6,,3,HUB_004,مركز صحي العدل,hospital,Greater_Makkah,21.4483515,39.8647505
+p-center,distance_equity,6,,15,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838
+p-center,distance_equity,6,,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-center,distance_equity,6,,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-center,distance_equity,6,,48,HUB_049,SHIFA AL BARAKA MEDICAL CENTER,hospital,Haram_Makkah,21.437866521919123,39.8049459086818
+p-center,distance_equity,6,,57,HUB_058,National Guard Hospital,hospital,Mina,21.405893675544224,39.89207000859229
+p-center,distance_equity,8,,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+p-center,distance_equity,8,,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+p-center,distance_equity,8,,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-center,distance_equity,8,,41,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091
+p-center,distance_equity,8,,46,HUB_047,Medical Center,hospital,Greater_Makkah,21.371282489216437,39.93799241640427
+p-center,distance_equity,8,,48,HUB_049,SHIFA AL BARAKA MEDICAL CENTER,hospital,Haram_Makkah,21.437866521919123,39.8049459086818
+p-center,distance_equity,8,,55,HUB_056,Red Crescent,hospital,Haram_Makkah,21.422420500030203,39.82310754985782
+p-center,distance_equity,8,,56,HUB_057,University Medical Center,hospital,Greater_Makkah,21.408916536018644,39.86400413557941
+p-center,distance_equity,10,,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+p-center,distance_equity,10,,37,HUB_038,Arafat General hospital,hospital,Arafat,21.35006841829966,39.9836377010321
+p-center,distance_equity,10,,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+p-center,distance_equity,10,,41,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091
+p-center,distance_equity,10,,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+p-center,distance_equity,10,,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+p-center,distance_equity,10,,46,HUB_047,Medical Center,hospital,Greater_Makkah,21.371282489216437,39.93799241640427
+p-center,distance_equity,10,,49,HUB_050,Hospital King Abdulaziz,hospital,Haram_Makkah,21.4417766315203,39.80725852806045
+p-center,distance_equity,10,,55,HUB_056,Red Crescent,hospital,Haram_Makkah,21.422420500030203,39.82310754985782
+p-center,distance_equity,10,,56,HUB_057,University Medical Center,hospital,Greater_Makkah,21.408916536018644,39.86400413557941
+MCLP,uniform,1,2.5,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+MCLP,uniform,2,2.5,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,uniform,2,2.5,57,HUB_058,National Guard Hospital,hospital,Mina,21.405893675544224,39.89207000859229
+MCLP,uniform,3,2.5,15,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838
+MCLP,uniform,3,2.5,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,uniform,3,2.5,57,HUB_058,National Guard Hospital,hospital,Mina,21.405893675544224,39.89207000859229
+MCLP,uniform,4,2.5,15,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838
+MCLP,uniform,4,2.5,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,uniform,4,2.5,40,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864
+MCLP,uniform,4,2.5,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+MCLP,uniform,5,2.5,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+MCLP,uniform,5,2.5,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,uniform,5,2.5,40,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864
+MCLP,uniform,5,2.5,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+MCLP,uniform,5,2.5,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+MCLP,uniform,6,2.5,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,uniform,6,2.5,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+MCLP,uniform,6,2.5,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,uniform,6,2.5,41,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091
+MCLP,uniform,6,2.5,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+MCLP,uniform,6,2.5,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+MCLP,uniform,8,2.5,6,HUB_007,مستشفى نمرة,hospital,Arafat,21.3527385,39.9732195
+MCLP,uniform,8,2.5,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,uniform,8,2.5,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+MCLP,uniform,8,2.5,41,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091
+MCLP,uniform,8,2.5,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+MCLP,uniform,8,2.5,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+MCLP,uniform,8,2.5,45,HUB_046,Eastern Arafat Hospital,hospital,Arafat,21.33468009963513,39.987464969428345
+MCLP,uniform,8,2.5,49,HUB_050,Hospital King Abdulaziz,hospital,Haram_Makkah,21.4417766315203,39.80725852806045
+MCLP,uniform,10,2.5,6,HUB_007,مستشفى نمرة,hospital,Arafat,21.3527385,39.9732195
+MCLP,uniform,10,2.5,12,HUB_013,Unnamed OSM feature,hospital,Haram_Makkah,21.4545574,39.8393304
+MCLP,uniform,10,2.5,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,uniform,10,2.5,15,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838
+MCLP,uniform,10,2.5,20,HUB_021,مركز الملك عبد اللة لغسيل الكلي,hospital,Greater_Makkah,21.3889212,39.8079877
+MCLP,uniform,10,2.5,41,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091
+MCLP,uniform,10,2.5,43,HUB_044,King Abdullah Medical City Hospital,hospital,Greater_Makkah,21.38116139449817,39.88130373859744
+MCLP,uniform,10,2.5,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+MCLP,uniform,10,2.5,45,HUB_046,Eastern Arafat Hospital,hospital,Arafat,21.33468009963513,39.987464969428345
+MCLP,uniform,10,2.5,48,HUB_049,SHIFA AL BARAKA MEDICAL CENTER,hospital,Haram_Makkah,21.437866521919123,39.8049459086818
+MCLP,uniform,1,5.0,0,HUB_001,Saudi National Hospital,hospital,Mina,21.409918499999996,39.86871850000001
+MCLP,uniform,2,5.0,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+MCLP,uniform,2,5.0,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+MCLP,uniform,3,5.0,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+MCLP,uniform,3,5.0,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+MCLP,uniform,3,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+MCLP,uniform,4,5.0,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+MCLP,uniform,4,5.0,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+MCLP,uniform,4,5.0,37,HUB_038,Arafat General hospital,hospital,Arafat,21.35006841829966,39.9836377010321
+MCLP,uniform,4,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+MCLP,uniform,5,5.0,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+MCLP,uniform,5,5.0,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+MCLP,uniform,5,5.0,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,uniform,5,5.0,37,HUB_038,Arafat General hospital,hospital,Arafat,21.35006841829966,39.9836377010321
+MCLP,uniform,5,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+MCLP,uniform,6,5.0,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+MCLP,uniform,6,5.0,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+MCLP,uniform,6,5.0,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,uniform,6,5.0,37,HUB_038,Arafat General hospital,hospital,Arafat,21.35006841829966,39.9836377010321
+MCLP,uniform,6,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+MCLP,uniform,6,5.0,53,HUB_054,Mina Emergency Hospital,hospital,Mina,21.413654430364534,39.88011344235567
+MCLP,uniform,8,5.0,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+MCLP,uniform,8,5.0,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+MCLP,uniform,8,5.0,29,HUB_030,مجمع الرواد الطبي العام,hospital,Haram_Makkah,21.4505908,39.8082788
+MCLP,uniform,8,5.0,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,uniform,8,5.0,37,HUB_038,Arafat General hospital,hospital,Arafat,21.35006841829966,39.9836377010321
+MCLP,uniform,8,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+MCLP,uniform,8,5.0,48,HUB_049,SHIFA AL BARAKA MEDICAL CENTER,hospital,Haram_Makkah,21.437866521919123,39.8049459086818
+MCLP,uniform,8,5.0,53,HUB_054,Mina Emergency Hospital,hospital,Mina,21.413654430364534,39.88011344235567
+MCLP,uniform,10,5.0,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+MCLP,uniform,10,5.0,12,HUB_013,Unnamed OSM feature,hospital,Haram_Makkah,21.4545574,39.8393304
+MCLP,uniform,10,5.0,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+MCLP,uniform,10,5.0,29,HUB_030,مجمع الرواد الطبي العام,hospital,Haram_Makkah,21.4505908,39.8082788
+MCLP,uniform,10,5.0,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,uniform,10,5.0,37,HUB_038,Arafat General hospital,hospital,Arafat,21.35006841829966,39.9836377010321
+MCLP,uniform,10,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+MCLP,uniform,10,5.0,48,HUB_049,SHIFA AL BARAKA MEDICAL CENTER,hospital,Haram_Makkah,21.437866521919123,39.8049459086818
+MCLP,uniform,10,5.0,52,HUB_053,Al Hajj Street Health Center مركز صحي شارع الحج,hospital,Greater_Makkah,21.461554449352068,39.850066134435735
+MCLP,uniform,10,5.0,53,HUB_054,Mina Emergency Hospital,hospital,Mina,21.413654430364534,39.88011344235567
+MCLP,uniform,1,7.5,19,HUB_020,Iraqi medical delegation,hospital,Greater_Makkah,21.412398400000004,39.8618606
+MCLP,uniform,2,7.5,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,uniform,2,7.5,33,HUB_034,MarkazSihhiMawsimiRaqmThalathah,seasonal_health_center,Arafat,21.3411317,39.9716879
+MCLP,uniform,3,7.5,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,uniform,3,7.5,33,HUB_034,MarkazSihhiMawsimiRaqmThalathah,seasonal_health_center,Arafat,21.3411317,39.9716879
+MCLP,uniform,3,7.5,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+MCLP,uniform,4,7.5,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,uniform,4,7.5,24,HUB_025,مستشفى الملك2,hospital,Greater_Makkah,21.3826364,39.8814022
+MCLP,uniform,4,7.5,33,HUB_034,MarkazSihhiMawsimiRaqmThalathah,seasonal_health_center,Arafat,21.3411317,39.9716879
+MCLP,uniform,4,7.5,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+MCLP,uniform,5,7.5,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,uniform,5,7.5,24,HUB_025,مستشفى الملك2,hospital,Greater_Makkah,21.3826364,39.8814022
+MCLP,uniform,5,7.5,27,HUB_028,مستشفى الملك4,hospital,Greater_Makkah,21.3819354,39.8814486
+MCLP,uniform,5,7.5,33,HUB_034,MarkazSihhiMawsimiRaqmThalathah,seasonal_health_center,Arafat,21.3411317,39.9716879
+MCLP,uniform,5,7.5,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+MCLP,uniform,6,7.5,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,uniform,6,7.5,24,HUB_025,مستشفى الملك2,hospital,Greater_Makkah,21.3826364,39.8814022
+MCLP,uniform,6,7.5,27,HUB_028,مستشفى الملك4,hospital,Greater_Makkah,21.3819354,39.8814486
+MCLP,uniform,6,7.5,31,HUB_032,MarkazSihhiMawsimiRaqmAhad'Ashar,seasonal_health_center,Arafat,21.343778,39.972725
+MCLP,uniform,6,7.5,33,HUB_034,MarkazSihhiMawsimiRaqmThalathah,seasonal_health_center,Arafat,21.3411317,39.9716879
+MCLP,uniform,6,7.5,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+MCLP,uniform,8,7.5,12,HUB_013,Unnamed OSM feature,hospital,Haram_Makkah,21.4545574,39.8393304
+MCLP,uniform,8,7.5,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,uniform,8,7.5,24,HUB_025,مستشفى الملك2,hospital,Greater_Makkah,21.3826364,39.8814022
+MCLP,uniform,8,7.5,27,HUB_028,مستشفى الملك4,hospital,Greater_Makkah,21.3819354,39.8814486
+MCLP,uniform,8,7.5,31,HUB_032,MarkazSihhiMawsimiRaqmAhad'Ashar,seasonal_health_center,Arafat,21.343778,39.972725
+MCLP,uniform,8,7.5,33,HUB_034,MarkazSihhiMawsimiRaqmThalathah,seasonal_health_center,Arafat,21.3411317,39.9716879
+MCLP,uniform,8,7.5,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,uniform,8,7.5,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+MCLP,uniform,10,7.5,12,HUB_013,Unnamed OSM feature,hospital,Haram_Makkah,21.4545574,39.8393304
+MCLP,uniform,10,7.5,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,uniform,10,7.5,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+MCLP,uniform,10,7.5,20,HUB_021,مركز الملك عبد اللة لغسيل الكلي,hospital,Greater_Makkah,21.3889212,39.8079877
+MCLP,uniform,10,7.5,24,HUB_025,مستشفى الملك2,hospital,Greater_Makkah,21.3826364,39.8814022
+MCLP,uniform,10,7.5,27,HUB_028,مستشفى الملك4,hospital,Greater_Makkah,21.3819354,39.8814486
+MCLP,uniform,10,7.5,31,HUB_032,MarkazSihhiMawsimiRaqmAhad'Ashar,seasonal_health_center,Arafat,21.343778,39.972725
+MCLP,uniform,10,7.5,33,HUB_034,MarkazSihhiMawsimiRaqmThalathah,seasonal_health_center,Arafat,21.3411317,39.9716879
+MCLP,uniform,10,7.5,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,uniform,10,7.5,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+MCLP,uniform,1,10.0,22,HUB_023,Pakistan Hajj Mission Hospital,hospital,Mina,21.397025299999992,39.876904
+MCLP,uniform,2,10.0,0,HUB_001,Saudi National Hospital,hospital,Mina,21.409918499999996,39.86871850000001
+MCLP,uniform,2,10.0,31,HUB_032,MarkazSihhiMawsimiRaqmAhad'Ashar,seasonal_health_center,Arafat,21.343778,39.972725
+MCLP,uniform,3,10.0,0,HUB_001,Saudi National Hospital,hospital,Mina,21.409918499999996,39.86871850000001
+MCLP,uniform,3,10.0,31,HUB_032,MarkazSihhiMawsimiRaqmAhad'Ashar,seasonal_health_center,Arafat,21.343778,39.972725
+MCLP,uniform,3,10.0,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+MCLP,uniform,4,10.0,0,HUB_001,Saudi National Hospital,hospital,Mina,21.409918499999996,39.86871850000001
+MCLP,uniform,4,10.0,18,HUB_019,Hera General Hospital,hospital,Greater_Makkah,21.48647619999999,39.7892145
+MCLP,uniform,4,10.0,30,HUB_031,MarkazSihhiMawsimiRaqmThamaniyat'Ashar,seasonal_health_center,Arafat,21.3482939,39.9762993
+MCLP,uniform,4,10.0,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+MCLP,uniform,5,10.0,0,HUB_001,Saudi National Hospital,hospital,Mina,21.409918499999996,39.86871850000001
+MCLP,uniform,5,10.0,18,HUB_019,Hera General Hospital,hospital,Greater_Makkah,21.48647619999999,39.7892145
+MCLP,uniform,5,10.0,30,HUB_031,MarkazSihhiMawsimiRaqmThamaniyat'Ashar,seasonal_health_center,Arafat,21.3482939,39.9762993
+MCLP,uniform,5,10.0,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,uniform,5,10.0,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+MCLP,uniform,6,10.0,0,HUB_001,Saudi National Hospital,hospital,Mina,21.409918499999996,39.86871850000001
+MCLP,uniform,6,10.0,18,HUB_019,Hera General Hospital,hospital,Greater_Makkah,21.48647619999999,39.7892145
+MCLP,uniform,6,10.0,21,HUB_022,King Abdullah dialysis Center,hospital,Greater_Makkah,21.418281799999995,39.7752803
+MCLP,uniform,6,10.0,30,HUB_031,MarkazSihhiMawsimiRaqmThamaniyat'Ashar,seasonal_health_center,Arafat,21.3482939,39.9762993
+MCLP,uniform,6,10.0,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,uniform,6,10.0,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+MCLP,uniform,8,10.0,0,HUB_001,Saudi National Hospital,hospital,Mina,21.409918499999996,39.86871850000001
+MCLP,uniform,8,10.0,18,HUB_019,Hera General Hospital,hospital,Greater_Makkah,21.48647619999999,39.7892145
+MCLP,uniform,8,10.0,20,HUB_021,مركز الملك عبد اللة لغسيل الكلي,hospital,Greater_Makkah,21.3889212,39.8079877
+MCLP,uniform,8,10.0,21,HUB_022,King Abdullah dialysis Center,hospital,Greater_Makkah,21.418281799999995,39.7752803
+MCLP,uniform,8,10.0,30,HUB_031,MarkazSihhiMawsimiRaqmThamaniyat'Ashar,seasonal_health_center,Arafat,21.3482939,39.9762993
+MCLP,uniform,8,10.0,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,uniform,8,10.0,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+MCLP,uniform,8,10.0,52,HUB_053,Al Hajj Street Health Center مركز صحي شارع الحج,hospital,Greater_Makkah,21.461554449352068,39.850066134435735
+MCLP,uniform,10,10.0,0,HUB_001,Saudi National Hospital,hospital,Mina,21.409918499999996,39.86871850000001
+MCLP,uniform,10,10.0,18,HUB_019,Hera General Hospital,hospital,Greater_Makkah,21.48647619999999,39.7892145
+MCLP,uniform,10,10.0,20,HUB_021,مركز الملك عبد اللة لغسيل الكلي,hospital,Greater_Makkah,21.3889212,39.8079877
+MCLP,uniform,10,10.0,21,HUB_022,King Abdullah dialysis Center,hospital,Greater_Makkah,21.418281799999995,39.7752803
+MCLP,uniform,10,10.0,30,HUB_031,MarkazSihhiMawsimiRaqmThamaniyat'Ashar,seasonal_health_center,Arafat,21.3482939,39.9762993
+MCLP,uniform,10,10.0,31,HUB_032,MarkazSihhiMawsimiRaqmAhad'Ashar,seasonal_health_center,Arafat,21.343778,39.972725
+MCLP,uniform,10,10.0,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,uniform,10,10.0,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+MCLP,uniform,10,10.0,40,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864
+MCLP,uniform,10,10.0,52,HUB_053,Al Hajj Street Health Center مركز صحي شارع الحج,hospital,Greater_Makkah,21.461554449352068,39.850066134435735
+MCLP,proxy,1,2.5,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+MCLP,proxy,2,2.5,15,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838
+MCLP,proxy,2,2.5,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+MCLP,proxy,3,2.5,15,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838
+MCLP,proxy,3,2.5,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,proxy,3,2.5,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+MCLP,proxy,4,2.5,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,proxy,4,2.5,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+MCLP,proxy,4,2.5,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+MCLP,proxy,4,2.5,57,HUB_058,National Guard Hospital,hospital,Mina,21.405893675544224,39.89207000859229
+MCLP,proxy,5,2.5,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+MCLP,proxy,5,2.5,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,proxy,5,2.5,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+MCLP,proxy,5,2.5,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+MCLP,proxy,5,2.5,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+MCLP,proxy,6,2.5,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,proxy,6,2.5,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+MCLP,proxy,6,2.5,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+MCLP,proxy,6,2.5,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+MCLP,proxy,6,2.5,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+MCLP,proxy,6,2.5,49,HUB_050,Hospital King Abdulaziz,hospital,Haram_Makkah,21.4417766315203,39.80725852806045
+MCLP,proxy,8,2.5,6,HUB_007,مستشفى نمرة,hospital,Arafat,21.3527385,39.9732195
+MCLP,proxy,8,2.5,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+MCLP,proxy,8,2.5,19,HUB_020,Iraqi medical delegation,hospital,Greater_Makkah,21.412398400000004,39.8618606
+MCLP,proxy,8,2.5,41,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091
+MCLP,proxy,8,2.5,42,HUB_043,Hospital Shifa,hospital,Haram_Makkah,21.415583055937315,39.80652632624844
+MCLP,proxy,8,2.5,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+MCLP,proxy,8,2.5,45,HUB_046,Eastern Arafat Hospital,hospital,Arafat,21.33468009963513,39.987464969428345
+MCLP,proxy,8,2.5,49,HUB_050,Hospital King Abdulaziz,hospital,Haram_Makkah,21.4417766315203,39.80725852806045
+MCLP,proxy,10,2.5,6,HUB_007,مستشفى نمرة,hospital,Arafat,21.3527385,39.9732195
+MCLP,proxy,10,2.5,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,proxy,10,2.5,15,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838
+MCLP,proxy,10,2.5,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+MCLP,proxy,10,2.5,20,HUB_021,مركز الملك عبد اللة لغسيل الكلي,hospital,Greater_Makkah,21.3889212,39.8079877
+MCLP,proxy,10,2.5,23,HUB_024,مجمع مبارك الطبي المتخصص لطب الاسنان,hospital,Haram_Makkah,21.4318676,39.7921537
+MCLP,proxy,10,2.5,25,HUB_026,مستشفى الملك1,hospital,Greater_Makkah,21.3829925,39.88210490000001
+MCLP,proxy,10,2.5,41,HUB_042,Mina Al-Wadi Hospital,hospital,Mina,21.41317296672884,39.90176293642091
+MCLP,proxy,10,2.5,44,HUB_045,Hilal Ahmar,hospital,Muzdalifah,21.388754680165658,39.92286031123547
+MCLP,proxy,10,2.5,45,HUB_046,Eastern Arafat Hospital,hospital,Arafat,21.33468009963513,39.987464969428345
+MCLP,proxy,1,5.0,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,proxy,2,5.0,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+MCLP,proxy,2,5.0,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+MCLP,proxy,3,5.0,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+MCLP,proxy,3,5.0,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+MCLP,proxy,3,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+MCLP,proxy,4,5.0,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+MCLP,proxy,4,5.0,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+MCLP,proxy,4,5.0,37,HUB_038,Arafat General hospital,hospital,Arafat,21.35006841829966,39.9836377010321
+MCLP,proxy,4,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+MCLP,proxy,5,5.0,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+MCLP,proxy,5,5.0,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+MCLP,proxy,5,5.0,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,proxy,5,5.0,37,HUB_038,Arafat General hospital,hospital,Arafat,21.35006841829966,39.9836377010321
+MCLP,proxy,5,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+MCLP,proxy,6,5.0,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+MCLP,proxy,6,5.0,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+MCLP,proxy,6,5.0,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,proxy,6,5.0,37,HUB_038,Arafat General hospital,hospital,Arafat,21.35006841829966,39.9836377010321
+MCLP,proxy,6,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+MCLP,proxy,6,5.0,53,HUB_054,Mina Emergency Hospital,hospital,Mina,21.413654430364534,39.88011344235567
+MCLP,proxy,8,5.0,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+MCLP,proxy,8,5.0,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+MCLP,proxy,8,5.0,29,HUB_030,مجمع الرواد الطبي العام,hospital,Haram_Makkah,21.4505908,39.8082788
+MCLP,proxy,8,5.0,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,proxy,8,5.0,37,HUB_038,Arafat General hospital,hospital,Arafat,21.35006841829966,39.9836377010321
+MCLP,proxy,8,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+MCLP,proxy,8,5.0,52,HUB_053,Al Hajj Street Health Center مركز صحي شارع الحج,hospital,Greater_Makkah,21.461554449352068,39.850066134435735
+MCLP,proxy,8,5.0,53,HUB_054,Mina Emergency Hospital,hospital,Mina,21.413654430364534,39.88011344235567
+MCLP,proxy,10,5.0,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+MCLP,proxy,10,5.0,12,HUB_013,Unnamed OSM feature,hospital,Haram_Makkah,21.4545574,39.8393304
+MCLP,proxy,10,5.0,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+MCLP,proxy,10,5.0,29,HUB_030,مجمع الرواد الطبي العام,hospital,Haram_Makkah,21.4505908,39.8082788
+MCLP,proxy,10,5.0,30,HUB_031,MarkazSihhiMawsimiRaqmThamaniyat'Ashar,seasonal_health_center,Arafat,21.3482939,39.9762993
+MCLP,proxy,10,5.0,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,proxy,10,5.0,37,HUB_038,Arafat General hospital,hospital,Arafat,21.35006841829966,39.9836377010321
+MCLP,proxy,10,5.0,38,HUB_039,Jabal Al-Rahmah Hospital,hospital,Arafat,21.352803837677783,39.98364361556893
+MCLP,proxy,10,5.0,52,HUB_053,Al Hajj Street Health Center مركز صحي شارع الحج,hospital,Greater_Makkah,21.461554449352068,39.850066134435735
+MCLP,proxy,10,5.0,53,HUB_054,Mina Emergency Hospital,hospital,Mina,21.413654430364534,39.88011344235567
+MCLP,proxy,1,7.5,19,HUB_020,Iraqi medical delegation,hospital,Greater_Makkah,21.412398400000004,39.8618606
+MCLP,proxy,2,7.5,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,proxy,2,7.5,33,HUB_034,MarkazSihhiMawsimiRaqmThalathah,seasonal_health_center,Arafat,21.3411317,39.9716879
+MCLP,proxy,3,7.5,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,proxy,3,7.5,33,HUB_034,MarkazSihhiMawsimiRaqmThalathah,seasonal_health_center,Arafat,21.3411317,39.9716879
+MCLP,proxy,3,7.5,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+MCLP,proxy,4,7.5,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,proxy,4,7.5,31,HUB_032,MarkazSihhiMawsimiRaqmAhad'Ashar,seasonal_health_center,Arafat,21.343778,39.972725
+MCLP,proxy,4,7.5,33,HUB_034,MarkazSihhiMawsimiRaqmThalathah,seasonal_health_center,Arafat,21.3411317,39.9716879
+MCLP,proxy,4,7.5,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+MCLP,proxy,5,7.5,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,proxy,5,7.5,31,HUB_032,MarkazSihhiMawsimiRaqmAhad'Ashar,seasonal_health_center,Arafat,21.343778,39.972725
+MCLP,proxy,5,7.5,33,HUB_034,MarkazSihhiMawsimiRaqmThalathah,seasonal_health_center,Arafat,21.3411317,39.9716879
+MCLP,proxy,5,7.5,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,proxy,5,7.5,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+MCLP,proxy,6,7.5,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,proxy,6,7.5,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+MCLP,proxy,6,7.5,31,HUB_032,MarkazSihhiMawsimiRaqmAhad'Ashar,seasonal_health_center,Arafat,21.343778,39.972725
+MCLP,proxy,6,7.5,33,HUB_034,MarkazSihhiMawsimiRaqmThalathah,seasonal_health_center,Arafat,21.3411317,39.9716879
+MCLP,proxy,6,7.5,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,proxy,6,7.5,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+MCLP,proxy,8,7.5,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,proxy,8,7.5,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+MCLP,proxy,8,7.5,24,HUB_025,مستشفى الملك2,hospital,Greater_Makkah,21.3826364,39.8814022
+MCLP,proxy,8,7.5,31,HUB_032,MarkazSihhiMawsimiRaqmAhad'Ashar,seasonal_health_center,Arafat,21.343778,39.972725
+MCLP,proxy,8,7.5,33,HUB_034,MarkazSihhiMawsimiRaqmThalathah,seasonal_health_center,Arafat,21.3411317,39.9716879
+MCLP,proxy,8,7.5,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,proxy,8,7.5,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+MCLP,proxy,8,7.5,53,HUB_054,Mina Emergency Hospital,hospital,Mina,21.413654430364534,39.88011344235567
+MCLP,proxy,10,7.5,12,HUB_013,Unnamed OSM feature,hospital,Haram_Makkah,21.4545574,39.8393304
+MCLP,proxy,10,7.5,13,HUB_014,مستوصف العبير,hospital,Greater_Makkah,21.4163884,39.8628741
+MCLP,proxy,10,7.5,14,HUB_015,Al Haram Emergency Hospital,hospital,Haram_Makkah,21.4267071,39.8232661
+MCLP,proxy,10,7.5,24,HUB_025,مستشفى الملك2,hospital,Greater_Makkah,21.3826364,39.8814022
+MCLP,proxy,10,7.5,27,HUB_028,مستشفى الملك4,hospital,Greater_Makkah,21.3819354,39.8814486
+MCLP,proxy,10,7.5,31,HUB_032,MarkazSihhiMawsimiRaqmAhad'Ashar,seasonal_health_center,Arafat,21.343778,39.972725
+MCLP,proxy,10,7.5,33,HUB_034,MarkazSihhiMawsimiRaqmThalathah,seasonal_health_center,Arafat,21.3411317,39.9716879
+MCLP,proxy,10,7.5,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,proxy,10,7.5,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+MCLP,proxy,10,7.5,53,HUB_054,Mina Emergency Hospital,hospital,Mina,21.413654430364534,39.88011344235567
+MCLP,proxy,1,10.0,22,HUB_023,Pakistan Hajj Mission Hospital,hospital,Mina,21.397025299999992,39.876904
+MCLP,proxy,2,10.0,30,HUB_031,MarkazSihhiMawsimiRaqmThamaniyat'Ashar,seasonal_health_center,Arafat,21.3482939,39.9762993
+MCLP,proxy,2,10.0,52,HUB_053,Al Hajj Street Health Center مركز صحي شارع الحج,hospital,Greater_Makkah,21.461554449352068,39.850066134435735
+MCLP,proxy,3,10.0,18,HUB_019,Hera General Hospital,hospital,Greater_Makkah,21.48647619999999,39.7892145
+MCLP,proxy,3,10.0,30,HUB_031,MarkazSihhiMawsimiRaqmThamaniyat'Ashar,seasonal_health_center,Arafat,21.3482939,39.9762993
+MCLP,proxy,3,10.0,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+MCLP,proxy,4,10.0,18,HUB_019,Hera General Hospital,hospital,Greater_Makkah,21.48647619999999,39.7892145
+MCLP,proxy,4,10.0,30,HUB_031,MarkazSihhiMawsimiRaqmThamaniyat'Ashar,seasonal_health_center,Arafat,21.3482939,39.9762993
+MCLP,proxy,4,10.0,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+MCLP,proxy,4,10.0,52,HUB_053,Al Hajj Street Health Center مركز صحي شارع الحج,hospital,Greater_Makkah,21.461554449352068,39.850066134435735
+MCLP,proxy,5,10.0,18,HUB_019,Hera General Hospital,hospital,Greater_Makkah,21.48647619999999,39.7892145
+MCLP,proxy,5,10.0,20,HUB_021,مركز الملك عبد اللة لغسيل الكلي,hospital,Greater_Makkah,21.3889212,39.8079877
+MCLP,proxy,5,10.0,30,HUB_031,MarkazSihhiMawsimiRaqmThamaniyat'Ashar,seasonal_health_center,Arafat,21.3482939,39.9762993
+MCLP,proxy,5,10.0,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+MCLP,proxy,5,10.0,52,HUB_053,Al Hajj Street Health Center مركز صحي شارع الحج,hospital,Greater_Makkah,21.461554449352068,39.850066134435735
+MCLP,proxy,6,10.0,18,HUB_019,Hera General Hospital,hospital,Greater_Makkah,21.48647619999999,39.7892145
+MCLP,proxy,6,10.0,20,HUB_021,مركز الملك عبد اللة لغسيل الكلي,hospital,Greater_Makkah,21.3889212,39.8079877
+MCLP,proxy,6,10.0,30,HUB_031,MarkazSihhiMawsimiRaqmThamaniyat'Ashar,seasonal_health_center,Arafat,21.3482939,39.9762993
+MCLP,proxy,6,10.0,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+MCLP,proxy,6,10.0,40,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864
+MCLP,proxy,6,10.0,52,HUB_053,Al Hajj Street Health Center مركز صحي شارع الحج,hospital,Greater_Makkah,21.461554449352068,39.850066134435735
+MCLP,proxy,8,10.0,0,HUB_001,Saudi National Hospital,hospital,Mina,21.409918499999996,39.86871850000001
+MCLP,proxy,8,10.0,18,HUB_019,Hera General Hospital,hospital,Greater_Makkah,21.48647619999999,39.7892145
+MCLP,proxy,8,10.0,20,HUB_021,مركز الملك عبد اللة لغسيل الكلي,hospital,Greater_Makkah,21.3889212,39.8079877
+MCLP,proxy,8,10.0,30,HUB_031,MarkazSihhiMawsimiRaqmThamaniyat'Ashar,seasonal_health_center,Arafat,21.3482939,39.9762993
+MCLP,proxy,8,10.0,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,proxy,8,10.0,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+MCLP,proxy,8,10.0,40,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864
+MCLP,proxy,8,10.0,52,HUB_053,Al Hajj Street Health Center مركز صحي شارع الحج,hospital,Greater_Makkah,21.461554449352068,39.850066134435735
+MCLP,proxy,10,10.0,0,HUB_001,Saudi National Hospital,hospital,Mina,21.409918499999996,39.86871850000001
+MCLP,proxy,10,10.0,17,HUB_018,Al Fahd Medical Complex,hospital,Haram_Makkah,21.4431374,39.8355345
+MCLP,proxy,10,10.0,18,HUB_019,Hera General Hospital,hospital,Greater_Makkah,21.48647619999999,39.7892145
+MCLP,proxy,10,10.0,20,HUB_021,مركز الملك عبد اللة لغسيل الكلي,hospital,Greater_Makkah,21.3889212,39.8079877
+MCLP,proxy,10,10.0,21,HUB_022,King Abdullah dialysis Center,hospital,Greater_Makkah,21.418281799999995,39.7752803
+MCLP,proxy,10,10.0,30,HUB_031,MarkazSihhiMawsimiRaqmThamaniyat'Ashar,seasonal_health_center,Arafat,21.3482939,39.9762993
+MCLP,proxy,10,10.0,34,HUB_035,MarkazSihhiMawsimiRaqmSittat'Ashar,seasonal_health_center,Arafat,21.345993,39.978065
+MCLP,proxy,10,10.0,39,HUB_040,Mina Al-Share’a Al-Jadeed Hospital,hospital,Mina,21.411264651496,39.8905846556361
+MCLP,proxy,10,10.0,40,HUB_041,مركز هيئة الهلال الأحمر - منى,ambulance_station,Mina,21.41657955698829,39.88555948437864
+MCLP,proxy,10,10.0,52,HUB_053,Al Hajj Street Health Center مركز صحي شارع الحج,hospital,Greater_Makkah,21.461554449352068,39.850066134435735
+LSCP,complete_coverage,3,5.0,5,HUB_006,Armed Forces Hospital,hospital,Mina,21.399227,39.8992415
+LSCP,complete_coverage,3,5.0,6,HUB_007,مستشفى نمرة,hospital,Arafat,21.3527385,39.9732195
+LSCP,complete_coverage,3,5.0,15,HUB_016,Ajyad Emergency Hospital,hospital,Haram_Makkah,21.419720200000004,39.8263838
+LSCP,complete_coverage,3,7.5,6,HUB_007,مستشفى نمرة,hospital,Arafat,21.3527385,39.9732195
+LSCP,complete_coverage,3,7.5,46,HUB_047,Medical Center,hospital,Greater_Makkah,21.371282489216437,39.93799241640427
+LSCP,complete_coverage,3,7.5,47,HUB_048,King Faisal Hospital,hospital,Haram_Makkah,21.434479471657884,39.85338079811359
+LSCP,complete_coverage,2,10.0,46,HUB_047,Medical Center,hospital,Greater_Makkah,21.371282489216437,39.93799241640427
+LSCP,complete_coverage,2,10.0,53,HUB_054,Mina Emergency Hospital,hospital,Mina,21.413654430364534,39.88011344235567

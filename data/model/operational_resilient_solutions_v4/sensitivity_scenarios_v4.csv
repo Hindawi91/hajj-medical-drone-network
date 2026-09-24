@@ -1,0 +1,11 @@
+﻿family,packages_per_hour,safe_roundtrip_km,response_target_min,turnaround_min,redundancy,scenario_id
+demand,15,20.0,5.0,30.0,2,S01
+demand,30,20.0,5.0,30.0,2,S02
+demand,45,20.0,5.0,30.0,2,S03
+battery,30,10.0,5.0,30.0,2,S04
+battery,30,15.0,5.0,30.0,2,S05
+response,30,20.0,7.0,30.0,2,S06
+response,30,20.0,10.0,30.0,2,S07
+turnaround,30,20.0,5.0,15.0,2,S08
+turnaround,30,20.0,5.0,45.0,2,S09
+redundancy,30,20.0,5.0,30.0,1,S10

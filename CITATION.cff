@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software or data, please cite it as below. The associated paper is
+  in preparation; this file will be updated with the article reference once published.
+title: "From Geographic Coverage to Operational Resilience: official implementation"
+abstract: >-
+  Official implementation of a data-driven framework for medical-drone hub planning
+  during Hajj, comparing geographic coverage benchmarks against an operational-resilient
+  mixed-integer linear program with fleet capacity, endurance, response-time and backup
+  accessibility requirements.
+type: software
+authors:
+  - family-names: Al-Hindawi
+    given-names: Firas
+    affiliation: "King Fahd University of Petroleum and Minerals"
+  - family-names: Alhomaidhi
+    given-names: Esam
+    affiliation: "King Fahd University of Petroleum and Minerals"
+license: MIT
+repository-code: "https://github.com/Hindawi91/hajj-medical-drone-network"
+keywords:
+  - facility location
+  - medical drones
+  - Hajj
+  - mass gatherings
+  - mixed-integer programming
+  - emergency logistics
+  - OpenStreetMap
+# The associated paper is still in preparation. Once it is published, uncomment and
+# complete the block below so that citation tools prefer the article over the software.
+#
+# preferred-citation:
+#   type: article
+#   title: >-
+#     From Geographic Coverage to Operational Resilience: Data-Driven Medical-Drone Hub
+#     Planning for Hajj
+#   authors:
+#     - family-names: Al-Hindawi
+#       given-names: Firas
+#     - family-names: Alhomaidhi
+#       given-names: Esam
+#   journal: "TO BE COMPLETED"
+#   year: TO BE COMPLETED
+#   doi: "TO BE COMPLETED"

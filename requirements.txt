@@ -1,0 +1,19 @@
+# Core analysis
+pandas>=2.0
+numpy>=1.24
+
+# Geospatial
+geopandas>=0.14
+shapely>=2.0
+
+# Figures and maps
+matplotlib>=3.7
+folium>=0.15
+contextily>=1.4
+
+# Optimization (only needed to RE-SOLVE the models; not needed to verify or plot)
+pyomo>=6.7
+highspy>=1.5
+
+# Notebooks (optional)
+jupyterlab>=4.0

@@ -1,0 +1,24 @@
+# Normalise line endings so the repository is identical on Windows, macOS and Linux.
+* text=auto eol=lf
+
+# Explicit text types
+*.py      text eol=lf
+*.ipynb   text eol=lf
+*.md      text eol=lf
+*.csv     text eol=lf
+*.yml     text eol=lf
+*.cff     text eol=lf
+*.txt     text eol=lf
+*.html    text eol=lf
+Makefile  text eol=lf
+
+# Binary: never diff, never convert
+*.png     binary
+*.pdf     binary
+*.gpkg    binary
+*.parquet binary
+*.npy     binary
+*.geojson binary
+
+# Notebooks are noisy in diffs; mark them so GitHub's language stats stay sensible
+*.ipynb linguist-documentation

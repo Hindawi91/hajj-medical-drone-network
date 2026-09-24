@@ -1,0 +1,10 @@
+Family,Setting,Hubs,Drones,Hub_change_pct,Drone_change_pct,Label
+Demand,15 pkg/h,8,13,-20.0,-38.095238095238095,Demand: 15 pkg/h
+Demand,45 pkg/h,11,29,10.0,38.095238095238095,Demand: 45 pkg/h
+Battery,10 km,10,21,0.0,0.0,Battery: 10 km
+Battery,15 km,10,21,0.0,0.0,Battery: 15 km
+Response,7 min,8,20,-20.0,-4.761904761904762,Response: 7 min
+Response,10 min,7,19,-30.0,-9.523809523809524,Response: 10 min
+Turnaround,15 min,8,12,-20.0,-42.857142857142854,Turnaround: 15 min
+Turnaround,45 min,12,32,20.0,52.38095238095238,Turnaround: 45 min
+Resilience,r = 1,7,19,-30.0,-9.523809523809524,Resilience: r = 1

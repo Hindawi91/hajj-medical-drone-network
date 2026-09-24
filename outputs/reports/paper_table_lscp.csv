@@ -1,0 +1,5 @@
+range_km,p,termination,uncoverable_points,selected_hubs
+2.5,,infeasible_precheck,47.0,
+5.0,3.0,optimal,0.0,HUB_006;HUB_007;HUB_016
+7.5,3.0,optimal,0.0,HUB_007;HUB_047;HUB_048
+10.0,2.0,optimal,0.0,HUB_047;HUB_054

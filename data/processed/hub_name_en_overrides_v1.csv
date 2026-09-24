@@ -1,0 +1,5 @@
+hub_id,name_ar_source,name_en_override,source_note
+HUB_007,مستشفى نمرة,Namirah Hospital,"OSM record has no name:en tag; author transliteration of ""مستشفى نمرة"" (Namirah/Namira, the Arafat-area locality). Figure labels and manuscript tables only; the underlying OSM name is unchanged."
+HUB_014,مستوصف العبير,Al-Abeer Dispensary,"OSM record has no name:en tag; literal author translation (""mustawsaf"" = dispensary). Facility is tagged amenity=hospital in OSM but named as a dispensary."
+HUB_041,مركز هيئة الهلال الأحمر - منى,Saudi Red Crescent Authority Centre - Mina,"OSM record has no name:en tag; literal author translation. This is the single ambulance_station in the candidate set."
+HUB_035,مركز صحي موسمي رقم 16,Seasonal Health Centre No. 16,"OSM name:en exists but is an unspaced raw transliteration (""MarkazSihhiMawsimiRaqmSittat`Ashar"") that is unusable as a publication label; replaced by a literal author translation of the Arabic name."
