@@ -1,6 +1,6 @@
 <div align="center">
 
-# A Geospatial Optimization Framework for Medical-Drone Hub Planning at Mass Gatherings: The Case of Hajj
+# Hajj Medical-Drone Hub Planning: Geospatial Data, Optimization Models, and Results
 
 ### Geographic Coverage, Fleet Capacity, and Backup Accessibility
 
