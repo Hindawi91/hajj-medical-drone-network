@@ -1,6 +1,6 @@
 <div align="center">
 
-# Medical-Drone Hub Planning for Hajj
+# A Geospatial Optimization Framework for Medical-Drone Hub Planning at Mass Gatherings: The Case of Hajj
 
 ### Geographic Coverage, Fleet Capacity, and Backup Accessibility
 
@@ -75,16 +75,18 @@ counts reachable active hubs; post-failure capacity and reassignment are not mod
 
 ---
 
-## Repository structure
+### Repository structure
 
-```
+```text
 data/
-  raw/osm/        OpenStreetMap extract the study is built from
-  processed/      cleaned facilities, analytical zones, demand grids
-  model/          optimization-ready matrices
-    optimization_solutions/               geographic benchmark results
-    operational_resilient_solutions_v4/   operational and resilient results
-notebooks/        the analysis pipeline, in order
+├── raw/osm/                           Original OpenStreetMap extract
+├── processed/                         Cleaned facilities, zones, and demand grids
+└── model/                             Optimization-ready data and distance matrices
+    ├── optimization_solutions/        Geographic benchmark results
+    └── operational_resilient_solutions_v4/
+                                       Operational and backup-coverage results
+
+notebooks/                             Analysis pipeline in execution order
 ```
 
 Inputs and saved results are both committed, so the notebooks can be read and inspected
@@ -131,14 +133,14 @@ If you use this code, please cite our paper:
 
 ```bibtex
 @article{alhindawi2026hajj,
-  title={Medical-Drone Hub Planning for Hajj: Integrating Geographic Coverage, Fleet Capacity, and Backup Accessibility},
-  author={Al-Hindawi, Firas and Alhomaidhi, Esam},
+  title={From Geographic Coverage to Operational Resilience: Geospatial Medical-Drone Hub Planning for Mass Gatherings Using Hajj as a Case Study},
+  author={Al-Hindawi, Firas},
   note={Manuscript in preparation},
   year={2026}
 }
 ```
 
-The paper is in preparation. This entry and [CITATION.cff](CITATION.cff) will be updated
+The paper is in preparation. This entry  will be updated
 once it is published.
 
 ---
@@ -151,6 +153,6 @@ OpenStreetMap are © OpenStreetMap contributors, available under the
 
 ## Contact
 
-**Firas Al-Hindawi** — <firas.hindawi@kfupm.edu.sa>
+**Firas Al-Hindawi** <firas.hindawi@kfupm.edu.sa>
 Industrial and Systems Engineering Department, King Fahd University of Petroleum and
 Minerals, Dhahran, Saudi Arabia.
